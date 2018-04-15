@@ -3,10 +3,14 @@ Business Card
 
 Example:
 
++ English:
+
 <div>
     <img src="images/front.png" alt-="front side business card" width="200px"/>
     <img src="images/back.png" alt-="back side business card" width="200px"/>
 </div>
+
++ [Chinese Version](./src/zh)
 
 How this business card was designed, is explained in [this blog post](https://olivierpieters.be/blog/2017/02/11/designing-a-business-card-in-latex).
 

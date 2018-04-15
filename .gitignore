@@ -1,4 +1,9 @@
 build.sh
-*.log
 back.pdf
 front.pdf
+*.log
+.*
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
